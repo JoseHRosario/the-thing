@@ -4,10 +4,10 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import { useState } from 'react'
 
 const navigation = [
-    { name: 'Product', href: '#' },
-    { name: 'Features', href: '#' },
-    { name: 'Marketplace', href: '#' },
-    { name: 'Company', href: '#' },
+    { name: 'Ideas', href: '#' },
+    { name: 'Monetize', href: '#' },
+    { name: 'Build', href: '#' },
+    { name: 'Contact', href: '#' },
   ]
 
 export default function Navigation(){
