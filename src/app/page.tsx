@@ -1,9 +1,9 @@
-"use client"
+"use client";
 
 export default function Home() {
-
+  
   return (
-    <div className="hero min-h-screen bg-base-200">
+    <div className="hero bg-base-200">
       <div className="hero-content flex-col lg:flex-row-reverse">
         <div className="text-center lg:text-left">
           <h1 className="text-4xl font-bold">Business Planning Made Simple with AI</h1>
